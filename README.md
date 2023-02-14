@@ -1,2 +1,2 @@
 # variable-css
-Playing with varialbe css and js
+Playing with variable css with js
